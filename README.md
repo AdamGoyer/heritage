@@ -1,6 +1,6 @@
 [English](./README.md) /
 
-# The heritage garden book
+# The Heritage Garden Book
 
 The initial repo and notes for the heritage garden book
 
